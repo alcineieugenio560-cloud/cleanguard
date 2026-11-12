@@ -1,0 +1,2 @@
+# Um hash SHA-256 (64 caracteres hex) de malware por linha. Linhas com # sao ignoradas.
+# Suba este arquivo no GitHub e coloque a URL raw em SignatureUpdater.SIG_URL.

@@ -1,2 +1,0 @@
-# Um hash SHA-256 de APK malicioso por linha (minúsculas). Linhas com # são ignoradas.
-# Atualize esta lista com hashes de fontes confiáveis (ex.: MalwareBazaar, VirusTotal).
